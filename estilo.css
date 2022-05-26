@@ -1,0 +1,31 @@
+input  {
+    width: 170px;
+    height: 70px;
+}
+
+p#par  {
+    font-size: 35px;
+    background-color: rgb(242, 244, 245);
+}
+p#res  {
+    font-size: 25px;
+    text-align: left;
+}
+
+header  {
+    text-align: center;    
+}
+
+section  {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 1100px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.308);
+}
+
+div  {
+    text-align: center;
+    padding: 10px;
+}
